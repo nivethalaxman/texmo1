@@ -1,0 +1,297 @@
+.feed-box, .recent-activities{
+	border: none;
+  background: #fff;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 0;
+}
+label {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.form_tabs .nav-link{
+	    font-size: 15px;
+    padding: 10px 10px;
+    color: #464a4c;
+}
+
+.form_tabs .nav-link.active{
+	    color: #f7941e;
+}
+.form_tabs .tab-pane{
+	padding-top:20px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #f58632;
+    border-color: #f58632;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #7d7d7d;
+    border-color: #7d7d7d;
+}
+.machine-registration .select select {
+	font-size: 18px!important;
+}
+.machine img{
+    width: 146px;
+    height: 97px;
+    text-align: center;
+}
+.machine{
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.home-page.active nav.navbar{
+    width: calc(100% - 68px);
+}
+
+.shrink .sidenav-header img {
+  width: inherit;
+  margin-left: 156px;
+}
+.entry_time{
+    font-size: 13px;
+    margin-top: 6px;
+}
+.entry_time span{
+    font-weight: bold;
+}
+.activities_table{
+    height: 215px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.dot_mrgn{
+    margin-top: 3px;
+}
+.status_list{
+    list-style: none;
+}
+.status_list li{
+    padding: 9px 0px!important;
+}
+.status_list span{
+        float: right;
+    padding: 8px;
+    color: #fff!important;
+    border-radius: 30px;
+    background: #f7941e;
+    font-weight: 800!important;
+}
+.status_card{
+    padding: 5px!important;
+}
+.select_holder{
+    background: #fff;
+}
+.card_status{
+    margin-bottom: 20px;
+}
+.status_list li{
+    font-size: 15px;
+}
+.table_margin{
+    margin-top: 30px;
+}
+.wrapper_running h4, .wrapper_idle h4, .wrapper_stop h4{
+    text-align: center;
+    margin-top: 5px!important;
+}
+nav .navbar-toggler span{
+     color: #000 !important;
+    transform: rotate(90deg);
+}
+.colm-detail .one{
+    margin-top: 15px;
+    border-bottom: 2px solid #f2f2f2;
+}
+.colm-detail{
+    margin-top: 20px;
+    border-top: 2px solid #f2f2f2;
+}
+.navbar1 .navbar-toggler{
+    padding: 0.25rem 0.40rem;
+    margin-top: 10px;
+}
+.colm-detail .one h4{
+    font-size:14px;
+    color:#545454;
+    font-weight: 500;
+    text-align: center;
+}
+.colm-detail .one h5 span{
+    color:#000;
+}
+.colm-detail .one h5{
+    font-size:13px;
+    color: #424242;
+    font-weight: 400;
+    text-align: center;
+}
+.colm-detail .one .felids{
+    padding:0px;
+}
+/*body {
+    font-family: 'Montserrat', sans-serif;
+}*/
+.data-usage h3{
+    text-align: center;
+    font-weight: 400;
+}
+.fa-cogs, .fa-file-text{
+    color: #f0ad4e !important;
+    font-size: 30px !important;
+}
+.pad{
+    margin: 0 5px;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: #f0ad4e;
+    color: #fff;
+    padding: 6px 0;
+    font-size: 18px !important;
+}
+.BreaKdown-order .table_front {
+    text-align: center;
+    background: #ffffff;
+    margin-top: 40px;
+}
+.btntable{
+    padding: 0;
+    background: none;
+}
+.fa-cogs:hover, .fa-file-text:hover{
+    color: #928a8a !important;
+}
+.pad:hover{
+    background-color: #928a8a !important;
+}
+.fa-wrench{
+    margin: 0 5px;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: #f0ad4e;
+    color: #fff;
+    padding: 6px 0;
+    font-size: 18px !important;
+}
+
+.fa-wrench:hover{
+    background-color: #928a8a;
+}
+.fa-user{
+    font-size: 45px !important;
+    color: #f0ad4e;
+}
+.BreaKdown-order .table thead th{
+    width: 83px;
+    vertical-align:middle;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #666666;
+    height: 100px;
+}
+.table-sm td{
+    padding:10px;
+    width: 20px;
+    text-align: center;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+.tbl-header{
+    background-color: #d8d8d8;
+}
+.table-striped tbody tr:nth-of-type(odd){
+        background-color: rgba(245, 242, 242, 0.05);
+}
+.table-striped tbody tr:nth-of-type(even){
+        background-color: #f0f0f0;
+}
+
+  
+/*.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+  display: block;
+}
+*/
+
+
+
+.modal-form{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: 100%;
+}
+.modal-form .form-group label{
+    font-size:16px;
+    color: #4c4c4c !important;
+}
+.save-btn{
+        left: 81%;
+}
+.modal-form .form-control{
+    height: 39px;
+}
+.file {
+  visibility: hidden;
+  position: absolute;
+}
+.modal-form header{
+    background-color: #919294;
+    padding: 10px;
+    color: #fff;
+}
+.modal-form header .display{
+    margin-bottom: 0px !important;
+}
+.modal-form .btn-warning{
+    background-color: #f7941d;
+border-color: #f7941d;
+}
+
+
+.Rprt-form{
+ margin: auto 50px;
+}
+.Rprt-form input[type=text]{
+height: 35px;
+}
+/*.Rprt-form .form-group{
+    width:240px;
+}*/
+.Rprt-form .form-group .col-form-label{
+    font-size: 18px;
+    color:#7d7d7d;
+}
+.Rprt-form .btn{
+    float: right !important;
+    font-size: 24px;
+    font-weight: 500;
+}
+.btn-primary:focus, .btn-primary.focus{
+    box-shadow: 0 0 0 2px rgb(228, 128, 15);
+}
+.Kaizen .fa-file-text{
+   color: #424142 !important;
+}
+.display{
+    font-size: 24px !important;
+    color: #424142;
+}
+.Kaizen .card{
+    padding:20px 0;
+}
